@@ -4,6 +4,7 @@ reated by https://www.gitignore.io/api/django,python,pycharm
 ### Custom ###
 secrets.json
 
+
 ### Django ###
 *.log
 *.pot
